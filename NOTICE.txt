@@ -1,0 +1,60 @@
+This product depends on classworlds 1.1-alpha-2
+
+	License:	http://classworlds.codehaus.org/license.html (Classworlds License)
+	Homepage:	http://classworlds.codehaus.org/
+
+This product depends on Commons Codec 1.6
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://commons.apache.org/codec/
+
+This product depends on Maven Artifact Manager 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org
+
+This product depends on Maven Artifact 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-artifact/
+
+This product depends on Maven Model 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-model/
+
+This product depends on Maven Plugin API 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-plugin-api/
+
+This product depends on Maven Profile Model 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-profile/
+
+This product depends on Maven Project Builder 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-project/
+
+This product depends on Maven Repository Metadata Model 2.0
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/maven-repository-metadata/
+
+This product depends on Default Plexus Container 1.0-alpha-9
+
+	License:	http://plexus.codehaus.org/license.html (Plexus License)
+	Homepage:	http://plexus.codehaus.org
+
+This product depends on Plexus Common Utilities 1.1
+
+	License:	http://plexus.codehaus.org/plexus-utils/license.html (Plexus License)
+	Homepage:	http://plexus.codehaus.org
+
+This product depends on Maven Wagon API 1.0-alpha-6
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	http://maven.apache.org/wagon/wagon-provider-api/
+

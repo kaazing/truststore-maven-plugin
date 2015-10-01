@@ -6,8 +6,8 @@
 
     <parent>
         <groupId>org.kaazing</groupId>
-        <artifactId>common</artifactId>
-        <version>2.1.0.3</version>
+        <artifactId>community</artifactId>
+        <version>2.16</version>
     </parent>
 
     <artifactId>truststore-maven-plugin</artifactId>
@@ -45,6 +45,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

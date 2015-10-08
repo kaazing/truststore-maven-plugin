@@ -8,7 +8,7 @@ This product depends on Commons Codec 1.6
 	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
 	Homepage:	http://commons.apache.org/codec/
 
-This product depends on Kaazing Corporation License 2.16
+This product depends on Kaazing Corporation License 2.17
 
 	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
 	Homepage:	https://github.com/kaazing/community

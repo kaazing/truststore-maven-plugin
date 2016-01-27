@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/kaazing/truststore-maven-plugin/tree/HEAD)
-
-[Full Changelog](https://github.com/kaazing/truststore-maven-plugin/compare/truststore-maven-plugin-2.0.0.3...HEAD)
+## [2.0.0.5](https://github.com/kaazing/truststore-maven-plugin/tree/2.0.0.5) (2016-01-22)
+[Full Changelog](https://github.com/kaazing/truststore-maven-plugin/compare/truststore-maven-plugin-2.0.0.3...2.0.0.5)
 
 **Merged pull requests:**
 

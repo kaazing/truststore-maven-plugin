@@ -259,7 +259,11 @@ public class TrustStoreMojo
             Map<String, String> certs = getCertificates(trustStoreSourceURL);
             KeyStore ks = getTrustStore(certs, trustStoreType);
 
-            tmpFile = new File(trustStoreTmpFile);
+            tmpFile = new File(project.getBuild().getDirectory());
+
+            // make sure that the target directory exists:
+            new File(tmpFile.getParent()).mkdirs();
+
             fos = new FileOutputStream(tmpFile);
             ks.store(fos, trustStorePass.toCharArray());
 

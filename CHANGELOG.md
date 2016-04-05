@@ -1,5 +1,20 @@
 # Change Log
 
+## [Unreleased](https://github.com/kaazing/truststore-maven-plugin/tree/HEAD)
+
+[Full Changelog](https://github.com/kaazing/truststore-maven-plugin/compare/2.0.0.6...HEAD)
+
+**Fixed bugs:**
+
+- The plugin fails if target is not already created [\#5](https://github.com/kaazing/truststore-maven-plugin/issues/5)
+
+**Merged pull requests:**
+
+- Create tmpfile directory if not already existing [\#8](https://github.com/kaazing/truststore-maven-plugin/pull/8) ([helt](https://github.com/helt))
+
+## [2.0.0.6](https://github.com/kaazing/truststore-maven-plugin/tree/2.0.0.6) (2016-01-27)
+[Full Changelog](https://github.com/kaazing/truststore-maven-plugin/compare/2.0.0.5...2.0.0.6)
+
 ## [2.0.0.5](https://github.com/kaazing/truststore-maven-plugin/tree/2.0.0.5) (2016-01-22)
 [Full Changelog](https://github.com/kaazing/truststore-maven-plugin/compare/truststore-maven-plugin-2.0.0.3...2.0.0.5)
 

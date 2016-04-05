@@ -260,6 +260,10 @@ public class TrustStoreMojo
             KeyStore ks = getTrustStore(certs, trustStoreType);
 
             tmpFile = new File(trustStoreTmpFile);
+
+            // make sure that the target directory exists:
+            new File(tmpFile.getParent()).mkdirs();
+
             fos = new FileOutputStream(tmpFile);
             ks.store(fos, trustStorePass.toCharArray());
 
